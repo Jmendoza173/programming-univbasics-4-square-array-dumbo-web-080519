@@ -4,5 +4,5 @@ def square_array(array)
     nArray = [array[count]]
     count+=1
   end
-  p nArray
+  nArray
 end
